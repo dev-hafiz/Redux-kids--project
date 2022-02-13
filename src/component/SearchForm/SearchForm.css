@@ -1,0 +1,12 @@
+.search__form {
+     width: 80%;
+     margin-top: 40px;
+}
+
+.input__search {
+     width: 70%;
+     padding: 6px 14px;
+     color: gray;
+     font-size: 18px;
+     outline: none;
+}

@@ -1,0 +1,17 @@
+.cart-area {
+     position: relative;
+}
+
+.remove__button {
+     position: absolute;
+     top: -10px;
+     left: 0;
+     width: 30px;
+     height: 30px;
+     background-color: red;
+     color: white;
+     z-index: 1;
+     padding-top: 3px;
+     border-radius: 50%;
+     cursor: pointer;
+}

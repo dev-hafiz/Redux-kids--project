@@ -1,0 +1,7 @@
+.add {
+     position: absolute;
+     bottom: 5;
+     left: 0;
+     font-weight: bolder;
+     cursor: pointer;
+}
